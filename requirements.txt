@@ -5,3 +5,6 @@ sqlalchemy[asyncio]
 aiomysql
 asyncpg
 python-dotenv
+cryptography
+langchain-groq
+langchain-core
